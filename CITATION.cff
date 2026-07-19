@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: book
+title: "Be a Boss & Fire That Bitch: Quiet Your Inner Critic & Finally Believe You're Good Enough!"
+authors:
+  - family-names: Raske
+    given-names: Stacy
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+year: 2019
+publisher: Empowered Overthinker Publishing
+address: Morgantown, WV
+isbn: 978-0-578-56387-9
+repository-code: "https://github.com/stacyraske/be-a-boss-fire-that-bitch"
+license: All-Rights-Reserved
