@@ -1,0 +1,8 @@
+# CODEOWNERS
+# Routes file-level approvals to repository maintainers
+
+* @stacyraske
+/README.md @stacyraske
+/frameworks/ @stacyraske
+/wiki/ @stacyraske
+/proof/ @stacyraske
